@@ -1,3 +1,3 @@
 # Demo 
 
-# My first project using HTML, CSS and JavaScript.
+My first project using HTML, CSS and JavaScript.
